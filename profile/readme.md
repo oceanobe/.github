@@ -19,7 +19,7 @@ Welcome to **[OceanoBe Technology][1]** — your go-to team for **game-changing 
 💳 **Payments:** Fast, secure transactions — because who likes waiting?
  
 📩 **Let’s build the future together!** [Drop us a line][1] or check out our repos and see the magic in action.\
-Ouh, almost forgot, follow us on social media [Linkedin][2] | [Facebook][3] for more insights in banking developments.
+Ouh, almost forgot! Follow us on social media [Linkedin][2] | [Facebook][3] for more insights in banking developments.
 
 
 [1]: https://oceanobe.com
