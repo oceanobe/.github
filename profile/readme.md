@@ -22,4 +22,4 @@ We specialize in delivering cutting-edge solutions for:\
 📈 Startups & Growth-Stage Companies – Helping tech startups scale faster.\
 💳 Payments & Digital Transactions – Seamless and secure payment solutions.
  
-📩 Let’s build the future together! Reach out to us at oceanobe.com or explore our repositories to see what we’re working on.
+📩 Let’s build the future together! Reach out to us at [oceanobe.com] or explore our repositories to see what we’re working on.
