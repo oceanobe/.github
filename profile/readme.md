@@ -15,7 +15,7 @@ Welcome to **[OceanoBe Technology](https://oceanobe.com)** — your go-to team f
  
 ### Industries We Serve
 🏦 **Fintech & Banking:** Secure, scalable software for the future of finance.\
-📈 **Startups:** Helping startups scale faster than you can say “unicorn.”\
+📈 **Startups:** Helping startups scale faster than you can say “unicorn”.\
 💳 **Payments:** Fast, secure transactions — because who likes waiting?
  
 📩 **Let’s build the future together!** [Drop us a line](https://oceanobe.com) or check out our repos and see the magic in action.
