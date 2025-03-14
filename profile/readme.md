@@ -25,3 +25,10 @@ Ouh, almost forgot! Follow us on social media [Linkedin][2] | [Facebook][3] for 
 [1]: https://oceanobe.com
 [2]: https://www.linkedin.com/company/oceanobe-technology/
 [3]: https://www.facebook.com/oceanobe/
+
+## Blog Posts
+- [The Lost Art of Keeping a Secret](https://oceanobe.com/news/the-lost-art-of-keeping-a-secret/1492) (13.03.2025)
+- [Financial Data Access (FiDA) Framework](https://oceanobe.com/news/financial-data-access-(fida)-framework/1476) (11.03.2025)
+- [Customer-Focused Banking](https://oceanobe.com/news/customer-focused-banking/1474) (07.03.2025)
+- [Building an Agile Development Team for Startup Growth](https://oceanobe.com/news/building-an-agile-development-team-for-startup-growth/1471) (05.03.2025)
+- [A2A Payments Implementation](https://oceanobe.com/news/a2a-payments-implementation/1469) (28.02.2025)
