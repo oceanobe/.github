@@ -26,7 +26,7 @@ Ouh, almost forgot! Follow us on social media [Linkedin][2] | [Facebook][3] for 
 [2]: https://www.linkedin.com/company/oceanobe-technology/
 [3]: https://www.facebook.com/oceanobe/
 
-## Blog Posts
+## Latest Blog Posts
 - [The Lost Art of Keeping a Secret](https://oceanobe.com/news/the-lost-art-of-keeping-a-secret/1492) (13.03.2025)
 - [Financial Data Access (FiDA) Framework](https://oceanobe.com/news/financial-data-access-(fida)-framework/1476) (11.03.2025)
 - [Customer-Focused Banking](https://oceanobe.com/news/customer-focused-banking/1474) (07.03.2025)
