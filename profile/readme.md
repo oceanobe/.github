@@ -27,8 +27,8 @@ Ouh, almost forgot! Follow us on social media [Linkedin][2] | [Facebook][3] for 
 [3]: https://www.facebook.com/oceanobe/
 
 ## Latest Blog Posts
+- [Personalization in Digital Banking](https://oceanobe.com/news/personalization-in-digital-banking/1499) (21.03.2025)
 - [Banking + Eventual Consistency = A Forbidden Love Story](https://oceanobe.com/news/banking-+-eventual-consistency-=-a-forbidden-love-story/1496) (18.03.2025)
 - [Effective Product Management for Startups in the Acceleration Phase](https://oceanobe.com/news/effective-product-management-for-startups-in-the-acceleration-phase/1494) (17.03.2025)
 - [The Lost Art of Keeping a Secret](https://oceanobe.com/news/the-lost-art-of-keeping-a-secret/1492) (13.03.2025)
 - [Financial Data Access (FiDA) Framework](https://oceanobe.com/news/financial-data-access-(fida)-framework/1476) (11.03.2025)
-- [Customer-Focused Banking](https://oceanobe.com/news/customer-focused-banking/1474) (07.03.2025)
