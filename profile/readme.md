@@ -27,8 +27,8 @@ Ouh, almost forgot! Follow us on social media [Linkedin][2] | [Facebook][3] for 
 [3]: https://www.facebook.com/oceanobe/
 
 ## Latest Blog Posts
+- [QA Strategies for Critical Financial Applications](https://oceanobe.com/news/qa-strategies-for-critical-financial-applications/1514) (08.04.2025)
 - [Developing Cross-Platform for Mobile Banking](https://oceanobe.com/news/developing-cross-platform-for-mobile-banking/1507) (04.04.2025)
 - [Technical Solutions for Personalized Digital Banking](https://oceanobe.com/news/technical-solutions-for-personalized-digital-banking/1505) (02.04.2025)
 - [Tech Specifics of NeoBanks](https://oceanobe.com/news/tech-specifics-of-neobanks/1503) (28.03.2025)
 - [Implementing RoPay](https://oceanobe.com/news/implementing-ropay/1501) (27.03.2025)
-- [Personalization in Digital Banking](https://oceanobe.com/news/personalization-in-digital-banking/1499) (21.03.2025)
