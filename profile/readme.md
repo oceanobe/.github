@@ -27,8 +27,8 @@ Ouh, almost forgot! Follow us on social media [Linkedin][2] | [Facebook][3] for 
 [3]: https://www.facebook.com/oceanobe/
 
 ## Latest Blog Posts
+- [Subtle Behaviors and Oddities in Angular](https://oceanobe.com/news/subtle-behaviors-and-oddities-in-angular/1522) (17.04.2025)
 - [Omnichannel Banking](https://oceanobe.com/news/omnichannel-banking/1521) (15.04.2025)
 - [Business Analysis in Banking](https://oceanobe.com/news/business-analysis-in-banking/1519) (11.04.2025)
 - ["Buy Now, Pay Later" Infrastructure](https://oceanobe.com/news/%22buy-now,-pay-later%22-infrastructure/1517) (10.04.2025)
 - [QA Strategies for Critical Financial Applications](https://oceanobe.com/news/qa-strategies-for-critical-financial-applications/1514) (08.04.2025)
-- [Developing Cross-Platform for Mobile Banking](https://oceanobe.com/news/developing-cross-platform-for-mobile-banking/1507) (04.04.2025)
