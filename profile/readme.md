@@ -27,8 +27,8 @@ Ouh, almost forgot! Follow us on social media [Linkedin][2] | [Facebook][3] for 
 [3]: https://www.facebook.com/oceanobe/
 
 ## Latest Blog Posts
+- [Architecting for the Best Outcome in the Worst-Case Scenario](https://oceanobe.com/news/architecting-for-the-best-outcome-in-the-worst-case-scenario/1529) (29.04.2025)
 - [RegTech](https://oceanobe.com/news/regtech/1527) (25.04.2025)
 - [Core Banking System Integration](https://oceanobe.com/news/core-banking-system-integration/1525) (23.04.2025)
 - [Subtle Behaviors and Oddities in Angular](https://oceanobe.com/news/subtle-behaviors-and-oddities-in-angular/1522) (17.04.2025)
 - [Omnichannel Banking](https://oceanobe.com/news/omnichannel-banking/1521) (15.04.2025)
-- [Business Analysis in Banking](https://oceanobe.com/news/business-analysis-in-banking/1519) (11.04.2025)
