@@ -27,8 +27,8 @@ Ouh, almost forgot! Follow us on social media [Linkedin][2] | [Facebook][3] for 
 [3]: https://www.facebook.com/oceanobe/
 
 ## Latest Blog Posts
+- [Stablecoins | Transforming the Payments Landscape](https://oceanobe.com/news/stablecoins-|-transforming-the-payments-landscape/1538) (13.05.2025)
 - [CI/CD Pipelines for Core Banking Applications](https://oceanobe.com/news/ci-cd-pipelines-for-core-banking-applications/1536) (08.05.2025)
 - [Innovations in Fraud Detection](https://oceanobe.com/news/innovations-in-fraud-detection/1534) (06.05.2025)
 - [Secure Biometric Authentication Across Devices](https://oceanobe.com/news/secure-biometric-authentication-across-devices/1531) (02.05.2025)
 - [Architecting for the Best Outcome in the Worst-Case Scenario](https://oceanobe.com/news/architecting-for-the-best-outcome-in-the-worst-case-scenario/1529) (29.04.2025)
-- [RegTech](https://oceanobe.com/news/regtech/1527) (25.04.2025)
